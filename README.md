@@ -23,3 +23,10 @@ machine coding
 api designing
 DB 
 Front-end design
+
+Functional Requirements:
+Should be able to login to the application
+-Should be able to create a post(text/photo/video)
+-Should be able to follow each other
+-Should be able to like/comment to a post
+-Should be able to view the feed of posts from people they follow

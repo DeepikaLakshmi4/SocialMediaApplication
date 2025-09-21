@@ -16,6 +16,7 @@ Initial Features:
 -Privacy
 -upload media
 -messaging service
+-notification service
 
 Step by step Desigin process:
 machine coding
